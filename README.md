@@ -3,7 +3,7 @@
 ### Meu nome é Mauro Alves sou Discente bacharelado de Sistemas de Informação (8 Periodo) na Universidade Estadual de Goias (UEG)!
 ### viso aprender e desenvolver minhas habilidades com desenvolvimento JAVA e Python.
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=MauroAlves&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
 
