@@ -10,14 +10,14 @@ Estudando na Universidade Estadual de Goias<br/>
 
 
 
-<a href="#" alt="Gmail">
+<!-- <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=[]martinsmaurojr@hotmail.com" /></a>
 
 <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=[](https://www.instagram.com/10_mauro.jr/)"/></a>
   
   <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=[]wa.me/62994188925"/></a>
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=[]wa.me/62994188925"/></a> -->
 
 </p>
 <hr>
