@@ -1,23 +1,42 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=MJunior10&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+# 👋 Olá! Eu sou o Mauro Junior  
 
-### Meu nome é Mauro Alves sou Discente bacharelado de Sistemas de Informação (8 Periodo) na Universidade Estadual de Goias (UEG)!
+Seja bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por criar soluções inovadoras e sempre buscando evoluir minhas habilidades. Atualmente, estou explorando **Python com Django** para desenvolvimento web e **C#** para criação de jogos.
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=MauroAlves&color=f8efd4&style=for-the-badge&logo=GitHub">
+---
 
-<p>
+## 🛠️ Habilidades e Tecnologias  
 
-Estudando na Universidade Estadual de Goias<br/>
+### 💻 Linguagens de Programação  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
+### 🌐 Desenvolvimento Web  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 
+### 🗄️ Bancos de Dados  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 
-<!-- <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=[]martinsmaurojr@hotmail.com" /></a>
+### 🎮 Desenvolvimento de Jogos  
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 
-<a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=[](https://www.instagram.com/10_mauro.jr/)"/></a>
-  
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=[]wa.me/62994188925"/></a> -->
+---
 
-</p>
-<hr>
+## 📚 Atualmente aprendendo  
+- **Python com Django:** Criando aplicações web completas e escaláveis.  
+- **C# para Jogos:** Explorando o Unity para o desenvolvimento de games.  
+
+## 🖱️ Entre em Contato  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-junior-29b997215/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinsmaurojr@hotmail.com)
+
+Sinta-se à vontade para explorar meus repositórios e colaborar em projetos! 🚀
