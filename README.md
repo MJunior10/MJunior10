@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Mauro Junior  
 
-Seja bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por criar soluções inovadoras e sempre buscando evoluir minhas habilidades. Atualmente, estou explorando **Python com Django** para desenvolvimento web e **C#** para criação de jogos.
+Seja bem-vindo ao meu GitHub! Estou sempre buscando evoluir minhas habilidades. Atualmente, estou estudando **Python com Django** e **Unity**.
 
 ---
 
@@ -16,12 +16,12 @@ Seja bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por criar soluçõ
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 ### 🎮 Desenvolvimento de Jogos  
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
 
 ---
 
 ## 📚 Atualmente aprendendo  
-- **Python com Django:** Criando aplicações web completas e escaláveis.  
+- **Python com Django:** Para o desenvolvimento de aplicações web.  
 - **C# para Jogos:** Explorando o Unity para o desenvolvimento de games.  
 
 ## 🖱️ Entre em Contato  
