@@ -1,5 +1,4 @@
 # 👋 Olá! Eu sou o Mauro Junior  
----
 
 ## 🛠️ Habilidades e Tecnologias  
 
