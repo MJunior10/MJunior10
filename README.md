@@ -1,7 +1,4 @@
 # 👋 Olá! Eu sou o Mauro Junior  
-
-Seja bem-vindo ao meu GitHub! Estou sempre buscando evoluir minhas habilidades. Atualmente, estou estudando **Python com Django** e **Unity**.
-
 ---
 
 ## 🛠️ Habilidades e Tecnologias  
