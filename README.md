@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Mauro Junior  
 
-  Seja bem vindo ao meu GITHUB
+#### Seja bem vindo ao meu GITHUB
 ---
 ## 🛠️ Habilidades e Tecnologias  
 
