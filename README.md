@@ -31,3 +31,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-junior-29b997215/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinsmaurojr@hotmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/10_mauro.jr)
 
 Sinta-se à vontade para explorar meus repositórios! 🚀
+
+<img src="https://github.com/MJunior10/MJunior10/blob/main/ff043987-239b-4661-bdb1-7f4ca6092c48.webp" alt="minha-badge" width = "250" />
